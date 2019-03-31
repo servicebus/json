@@ -1,0 +1,19 @@
+{
+  "name": "@servicebus/json",
+  "version": "0.0.0-development",
+  "description": "json middleware for servicebus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servicebus/json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servicebus/json/issues"
+  },
+  "homepage": "https://github.com/servicebus/json#readme"
+}
