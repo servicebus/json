@@ -4,7 +4,7 @@
   "description": "json middleware for servicebus",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: no test specified\" && exit 0"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/servicebus/json/issues"
   },
-  "homepage": "https://github.com/servicebus/json#readme"
+  "homepage": "https://github.com/servicebus/json#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }
